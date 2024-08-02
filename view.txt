@@ -1,0 +1,50 @@
+package view;
+
+import model.MyNotepadModel;
+
+import javax.swing.*;
+import javax.swing.border.EmptyBorder;
+import java.awt.*;
+
+public class MyNotepadView extends JFrame {
+    private JPanel contentPane;
+    private MyNotepadModel model;
+    private JPanel panel1;
+    private JTextArea textArea1;
+    private JScrollPane scrollPane1;
+
+    public MyNotepadView() {
+        this.model = new MyNotepadModel();
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setBounds(100, 100, 450, 300);
+        contentPane = new JPanel();
+        contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+        contentPane.setLayout(new BorderLayout(0, 0));
+
+        textArea1 = new JTextArea();
+
+        scrollPane1 = new JScrollPane(textArea1);
+        contentPane.add(scrollPane1, BorderLayout.CENTER);
+
+        panel1 = new JPanel();
+        panel1.setPreferredSize(new Dimension(10, 50));
+        contentPane.add(panel1, BorderLayout.SOUTH);
+
+        setContentPane(contentPane);
+    }
+
+    public static void main(String[] args) {
+        EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                try{
+                    MyNotepadView frame = new MyNotepadView();
+                    frame.setVisible(true);
+                }
+                catch(Exception e){
+                    e.printStackTrace();
+                }
+            }
+        });
+    }
+}
+Da them

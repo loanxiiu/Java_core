@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/31_method/31_method.iml" filepath="$PROJECT_DIR$/31_method/31_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32_get_set/32_get_set.iml" filepath="$PROJECT_DIR$/32_get_set/32_get_set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33_toString/33_toString.iml" filepath="$PROJECT_DIR$/33_toString/33_toString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34_equals_hascode/34_equals_hascode.iml" filepath="$PROJECT_DIR$/34_equals_hascode/34_equals_hascode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35_BT_QL_Sach/35_BT_QL_Sach.iml" filepath="$PROJECT_DIR$/35_BT_QL_Sach/35_BT_QL_Sach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35_QL_Sach/35_QL_Sach.iml" filepath="$PROJECT_DIR$/35_QL_Sach/35_QL_Sach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36_QL_Phim/36_QL_Phim.iml" filepath="$PROJECT_DIR$/36_QL_Phim/36_QL_Phim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37_QL_SinhVien/37_QL_SinhVien.iml" filepath="$PROJECT_DIR$/37_QL_SinhVien/37_QL_SinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38_QL_MayTinh/38_QL_MayTinh.iml" filepath="$PROJECT_DIR$/38_QL_MayTinh/38_QL_MayTinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39_ inheritance/39_ inheritance.iml" filepath="$PROJECT_DIR$/39_ inheritance/39_ inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40/40.iml" filepath="$PROJECT_DIR$/40/40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41/41.iml" filepath="$PROJECT_DIR$/41/41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42_overriding/42_overriding.iml" filepath="$PROJECT_DIR$/42_overriding/42_overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43_overloading/43_overloading.iml" filepath="$PROJECT_DIR$/43_overloading/43_overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44_abstract/44_abstract.iml" filepath="$PROJECT_DIR$/44_abstract/44_abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45/45.iml" filepath="$PROJECT_DIR$/45/45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46_interface/46_interface.iml" filepath="$PROJECT_DIR$/46_interface/46_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47_package/47_package.iml" filepath="$PROJECT_DIR$/47_package/47_package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/48_public_protected_private/48_public_protected_private.iml" filepath="$PROJECT_DIR$/48_public_protected_private/48_public_protected_private.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49_string/49_string.iml" filepath="$PROJECT_DIR$/49_string/49_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50_/50_.iml" filepath="$PROJECT_DIR$/50_/50_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51/51.iml" filepath="$PROJECT_DIR$/51/51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52/52.iml" filepath="$PROJECT_DIR$/52/52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53_Array/53_Array.iml" filepath="$PROJECT_DIR$/53_Array/53_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/54_compareTo/54_compareTo.iml" filepath="$PROJECT_DIR$/54_compareTo/54_compareTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55/55.iml" filepath="$PROJECT_DIR$/55/55.iml" />
+      <module fileurl="file://$PROJECT_DIR$/56_split/56_split.iml" filepath="$PROJECT_DIR$/56_split/56_split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57/57.iml" filepath="$PROJECT_DIR$/57/57.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58_dateformat_calendar/58_dateformat_calendar.iml" filepath="$PROJECT_DIR$/58_dateformat_calendar/58_dateformat_calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/59_enum/59_enum.iml" filepath="$PROJECT_DIR$/59_enum/59_enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java03_Class/Java03_Class.iml" filepath="$PROJECT_DIR$/Java03_Class/Java03_Class.iml" />
+    </modules>
+  </component>
+</project>
